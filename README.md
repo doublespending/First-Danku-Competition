@@ -7,7 +7,7 @@ Anyway, 整个行业都在探索嘛，我觉得它论文提到的场景特别有
 虽然我的理想比较遥远，但是现在有人在做一些工作。[vectordash](https://vectordash.com/hosting/)通过智能合约自动化调配算力到区块链或者深度学习，做这种共享。
 
 
-
+# 比赛的链接在[此处](https://github.com/algorithmiaio/danku)
 # 比赛的经验在[此处](https://blog.csdn.net/jason_cuijiahui/article/details/79949960)
 
 
